@@ -1,0 +1,1 @@
+This is a fake data generator for my [basic angular crud application](https://github.com/FaresMSD/testRxJs). Feel free to take a look on that aswell.
